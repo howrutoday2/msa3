@@ -27,5 +27,3 @@ docker build --tag howrutoday/ubuntu_nginx3 .
 
 * docker run -it howrutoday/ubuntu_nginx3
 
-
-![image](image1)
